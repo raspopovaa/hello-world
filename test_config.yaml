@@ -1,0 +1,8 @@
+yandex maps:
+  login: kbashevoy
+  token:  123
+
+cities:
+  - Москва
+  - Петербург
+  - Тверь
